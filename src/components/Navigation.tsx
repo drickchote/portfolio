@@ -45,7 +45,7 @@ export const Navigation = () => {
               </a>
             ))}
             <Button variant="hero" size="sm" asChild>
-              <a href="mailto:marcosdev@email.com">Contact Me</a>
+              <a href="mailto:marcosadrianodev@gmail.com">Contact Me</a>
             </Button>
           </div>
 
@@ -72,7 +72,7 @@ export const Navigation = () => {
               </a>
             ))}
             <Button variant="hero" className="w-full mt-4" asChild>
-              <a href="mailto:marcosdev@email.com">Contact Me</a>
+              <a href="mailto:marcosadrianodev@gmail.com">Contact Me</a>
             </Button>
           </div>
         )}

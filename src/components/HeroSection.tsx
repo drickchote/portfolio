@@ -64,7 +64,7 @@ export const HeroSection = () => {
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-primary/30 glow-effect">
                 <img
                   src={profileImage}
-                  alt="Marcos Santos"
+                  alt="Marcos Adriano"
                   className="w-full h-full object-cover object-top"
                 />
               </div>

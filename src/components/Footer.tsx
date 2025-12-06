@@ -15,7 +15,7 @@ export const Footer = () => {
               MS
             </a>
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Marcos Santos. All rights reserved.
+              © {new Date().getFullYear()} Marcos Adriano. All rights reserved.
             </p>
           </div>
 

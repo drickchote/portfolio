@@ -44,8 +44,8 @@ export const AboutSection = () => {
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
               With hands-on experience in distributed systems and API integrations with fintechs and 
-              payment providers, I've worked with companies like <span className="text-foreground font-medium">SAP</span>, 
-              <span className="text-foreground font-medium"> Kinvo</span>, and <span className="text-foreground font-medium">Liven</span>.
+              payment providers, I've worked with companies like <span className="text-foreground font-medium">Scrumlaunch</span>, 
+              <span className="text-foreground font-medium"> SAP</span>, and <span className="text-foreground font-medium">Kinvo</span>.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
               I hold a Bachelor's degree in Computer Science from Universidade Federal da Bahia (UFBA), 

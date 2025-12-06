@@ -1,6 +1,20 @@
-import { CheckCircle2, TrendingUp, Zap, Users } from "lucide-react";
+import { CheckCircle2, TrendingUp, Zap, Users, Brain } from "lucide-react";
 
 const successCases = [
+  {
+    id: "chartlens-iq-case",
+    project: "Chartlens IQ",
+    title: "AI-Powered Healthcare Data Navigation",
+    description:
+      "Developed and maintained a real-time web platform that enables doctors to interact with patient data through an AI-powered chat interface, revolutionizing how healthcare professionals access and analyze EMR data.",
+    achievements: [
+      "Built real-time AI chat interface using Socket.io for instant responses",
+      "Integrated PostHog for comprehensive data analytics and user insights",
+      "Rebuilt global template based on Figma prototypes with unified design system",
+      "Enabled doctors to discover patients and accelerate clinical decisions",
+    ],
+    icon: Brain,
+  },
   {
     id: "conecta-gabinete-case",
     project: "Conecta Gabinete",

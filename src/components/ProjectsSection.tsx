@@ -1,7 +1,16 @@
 import { ExternalLink, ArrowRight } from "lucide-react";
-import { Button } from "./ui/button";
+
 
 const projects = [
+  {
+    id: "chartlens-iq",
+    name: "Chartlens IQ",
+    description:
+      "AI-powered search and navigation across entire EMR systems. A real-time web platform that enables doctors to interact with patient data through an AI-powered chat interface using Socket.io, helping discover patients, accelerate decisions, and optimize outcomes.",
+    techs: ["TypeScript", "React", "Next.js", "Tailwind", "WebSocket", "Socket.io", "AWS", "PostHog"],
+    link: "https://www.chartlensiq.ai",
+    successCaseId: "chartlens-iq-case",
+  },
   {
     id: "conecta-gabinete",
     name: "Conecta Gabinete",

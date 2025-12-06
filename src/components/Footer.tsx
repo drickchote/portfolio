@@ -12,7 +12,7 @@ export const Footer = () => {
           {/* Logo and copyright */}
           <div className="text-center md:text-left">
             <a href="#" className="text-2xl font-bold text-gradient mb-2 inline-block">
-              MS
+              MA
             </a>
             <p className="text-sm text-muted-foreground">
               © {new Date().getFullYear()} Marcos Adriano. All rights reserved.

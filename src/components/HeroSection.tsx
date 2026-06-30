@@ -1,6 +1,6 @@
 import { ArrowDown, Github, Linkedin } from "lucide-react";
 import { Button } from "./ui/button";
-import profileImage from "@/assets/profile.jpeg";
+import profileImage from "@/assets/profile.png";
 
 export const HeroSection = () => {
   return (
@@ -65,7 +65,6 @@ export const HeroSection = () => {
                 <img
                   src={profileImage}
                   alt="Marcos Adriano"
-                  className="w-full h-full object-cover object-[center_-125px]"
                 />
               </div>
             </div>
